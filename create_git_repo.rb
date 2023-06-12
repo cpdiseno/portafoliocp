@@ -11,3 +11,5 @@ repo.add(all: true)
 
 # Realiza el primer commit
 repo.commit('Initial commit')
+
+git remote add origin https://github.com/cpdiseno/portafoliocp.git

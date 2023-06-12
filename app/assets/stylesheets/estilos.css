@@ -19,6 +19,7 @@
 
   .imagen2 {
     width: 150px;
+
   }
 
 
@@ -27,6 +28,10 @@
 
 text-align: left;
 
+  }
+
+  .fondo{
+background-color: #ECE4B7
   }
 
 
